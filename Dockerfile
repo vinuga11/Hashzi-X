@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 #CHGDEGHHKOLOVK-gyshjsaryi
-#ROOT -GDGHJJVSD.COMBGJJGSHGH
+#ROOT https://github.com/vinuga1/Hashzi-X
 #API-ggeuu6eetyr2112345.wryuu yuuintu.u88u5.yuurrtuutrt
 #gjufyuiiyuiiitwwryumjgstu.srAWFHJKOUFREW35YGFSS=Efyhfsryyyuuteett66wscjjhhg.
 #CHGDEGHHKOLOVK-gyshjsaryi
